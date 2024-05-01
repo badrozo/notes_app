@@ -6,8 +6,6 @@ class NotesView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: CustomAppBar(),
-    );
+    return Scaffold();
   }
 }
